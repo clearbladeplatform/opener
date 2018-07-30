@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,opener",
+    "logging_enabled": "false",
+    "name": "openerSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "openerSmokeTest.js"
+}
